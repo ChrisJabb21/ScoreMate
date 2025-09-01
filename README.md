@@ -20,7 +20,7 @@ A simple JavaScript-powered scoreboard that lets users keep track of scores for 
 - Buttons to add +1, +3, +5 points per team.
 - Data attributes (data-team, data-points) to keep the code clean and scalable.
 - Fully functional conditional logic to update scores correctly.
-- Cursed Timer ULiL — a retro digital clock / LED-style font that’s often used for scoreboards and timers.
+- Cursed Timer ULiL font typography — a retro digital clock or LED-style font that’s often used for scoreboards and timers.
 
 ⸻
 
