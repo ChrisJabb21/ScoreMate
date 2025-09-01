@@ -1,6 +1,12 @@
 # 🏆 ScoreMate App  
-A simple **two-team scoreboard app** built with HTML, CSS, and vanilla JavaScript. 
-This project was created as part of the **Scrimba Learn JavaScript path**, using a provided Figma design. It strengthened my understanding of DOM manipulation, event listeners, and clean code practices.  
+A simple **two-team scoreboard application** built with HTML, CSS, and vanilla JavaScript. This project was created as project requirement for the **Scrimba Learn JavaScript path** learning platform, using a provided Figma design. I used it to strengthen my understanding of DOM manipulation, event listeners, and go the extra mile to apply clean code practices.
+
+<img width="2334" height="1192" alt="Pasted image 20250831215329" src="https://github.com/user-attachments/assets/079cdb2f-bf2b-48f0-8852-d26bae0dea6b" />
+
+Initial app completion preview
+
+https://github.com/user-attachments/assets/4efc45ac-ad7c-4a3e-a969-9fb80d6ebff2
+
 
 
 ⸻
@@ -12,19 +18,20 @@ A simple JavaScript-powered scoreboard that lets users keep track of scores for 
 ⸻
 
 ✨ Current Features
-	•	Two separate team score displays (Home & Guest).
-	•	Buttons to add +1, +3, +5 points per team.
-	•	Data attributes (data-team, data-points) to keep the code clean and scalable.
-	•	Fully functional conditional logic to update scores correctly.
+- Two separate team score displays (Home & Guest).
+- Buttons to add +1, +3, +5 points per team.
+- Data attributes (data-team, data-points) to keep the code clean and scalable.
+- Fully functional conditional logic to update scores correctly.
+- Cursed Timer ULiL — a retro digital clock / LED-style font that’s often used for scoreboards and timers.
 
 ⸻
 
 🧩 Challenges I Faced
-	•	Understanding the difference between id vs. class and when to use each.
-	•	Learning how dataset attributes work to store custom values (data-team, data-points).
-	•	Debugging forEach is not a function errors when I mistakenly used querySelector instead of querySelectorAll.
-	•	Realizing I needed to sync JS variables with the DOM using .textContent, otherwise my updates wouldn’t display.
-	•	How to get started and realizing the importance of completing milestones instead of complete perfection.
+	- Understanding the difference between id vs. class and when to use each.
+	- Learning how dataset attributes work to store custom values (data-team, data-points).
+	- Debugging forEach is not a function errors when I mistakenly used querySelector instead of querySelectorAll.
+	- Realizing I needed to sync JS variables with the DOM using .textContent, otherwise my updates wouldn’t display.
+	- How to get started and realizing the importance of completing milestones instead of complete perfection.
  
 These challenges helped me visualize the logic better and taught me how important clean, reusable patterns are in JavaScript.
 
