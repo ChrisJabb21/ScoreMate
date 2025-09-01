@@ -16,7 +16,7 @@ A simple JavaScript-powered scoreboard that lets users keep track of scores for 
 ⸻
 
 ### ✨ Current Features
-- Two separate team score displays (Home & Guest).
+- Two separate team score displays (Home & Away).
 - Buttons to add +1, +3, +5 points per team.
 - Data attributes (data-team, data-points) to keep the code clean and scalable.
 - Fully functional conditional logic to update scores correctly.
