@@ -25,20 +25,26 @@ A simple JavaScript-powered scoreboard that lets users keep track of scores for 
 ⸻
 
 ### 🧩 Challenges I Faced
-- Understanding the difference between id vs. class and when to use each.
-- Learning how dataset attributes work to store custom values (data-team, data-points).
-- Debugging forEach is not a function errors when I mistakenly used querySelector instead of querySelectorAll.
-- Realizing I needed to sync JS variables with the DOM using .textContent, otherwise my updates wouldn’t display.
+- Understanding the difference between `id` vs. `class` attributes and when to use.
+- Learning how `dataset` attributes work to store custom values (data-team, data-points).
+- Debugging forEach is not a function errors when I mistakenly used `querySelector` instead of `querySelectorAll`.
+- Realizing I needed to sync JS variables with the DOM using `.textContent`, otherwise my updates wouldn’t display.
 - How to get started and realizing the importance of completing milestones instead of complete perfection.
  
 These challenges helped me visualize the logic better and taught me how important clean, reusable patterns are in JavaScript.
 
 ⸻
 
+## 📚 What I Learned and encountered
+- How to use `data-*`  attributes as a bridge between HTML and JS.
+- Why querySelectorAll is essential for selecting multiple elements.
+- How to keep logic DRY (Don’t Repeat Yourself) by using one generalized update function.
+- The importance of debugging with console.log to track logic flow when testing locally 
+
 ### 🚀 Future Improvements and next steps
 
 I’d like to expand this project to make it more practical and fun:
-- Mobile Responsiveness
+- Much more Mobile Responsiveness
 - Larger buttons and adaptive font sizes for smaller screens.
 - Use more CSS flex/grid and clamp() for responsive typography.
 - Reset Button to  clear all scores with one click to start a new game.
@@ -58,23 +64,16 @@ I’d like to expand this project to make it more practical and fun:
 ## ✅ Roadmap / To-Do List
 - [x] Add buttons to increment scores (+1, +3, +5)  
 - [x] Track scores for both teams  
-- [x] Use `data-*` attributes to simplify event handling  
+- [x] Use `data-*` attributes to simplify event handling
+- [x] Deploy at least one iteration of this project on GitHub Pages or Netlify is up and works for public use     
 - [ ] Add reset button to clear scores  
 - [ ] Improve mobile responsiveness (bigger buttons, flexible fonts)  
 - [ ] Create sport mode toggle (boxing, wrestling, soccer, hockey, UFC, swimming)  
 - [ ] Add dark mode / light mode toggle  
 - [ ] Save scores in localStorage so they persist after reload  
 - [ ] Add sound effects when points are scored  
-- [ ] Deploy on GitHub Pages or Netlify for public use  
 ⸻
 
-## 📚 What I Learned and encountered
-	•	How to use data-* attributes as a bridge between HTML and JS.
-	•	Why querySelectorAll is essential for selecting multiple elements.
-	•	How to keep logic DRY (Don’t Repeat Yourself) by using one generalized update function.
-	•	The importance of debugging with console.log to track logic flow when testing locally 
-
-⸻
 
 ## 🔮 Next Steps
 
