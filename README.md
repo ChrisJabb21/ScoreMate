@@ -3,8 +3,7 @@ A simple **two-team scoreboard application** built with HTML, CSS, and vanilla J
 
 <img width="2334" height="1192" alt="Pasted image 20250831215329" src="https://github.com/user-attachments/assets/079cdb2f-bf2b-48f0-8852-d26bae0dea6b" />
 
-Initial app completion preview
-
+🎥 Initial app completion preview �
 https://github.com/user-attachments/assets/4efc45ac-ad7c-4a3e-a969-9fb80d6ebff2
 
 
@@ -27,11 +26,11 @@ A simple JavaScript-powered scoreboard that lets users keep track of scores for 
 ⸻
 
 🧩 Challenges I Faced
-	- Understanding the difference between id vs. class and when to use each.
-	- Learning how dataset attributes work to store custom values (data-team, data-points).
-	- Debugging forEach is not a function errors when I mistakenly used querySelector instead of querySelectorAll.
-	- Realizing I needed to sync JS variables with the DOM using .textContent, otherwise my updates wouldn’t display.
-	- How to get started and realizing the importance of completing milestones instead of complete perfection.
+- Understanding the difference between id vs. class and when to use each.
+- Learning how dataset attributes work to store custom values (data-team, data-points).
+- Debugging forEach is not a function errors when I mistakenly used querySelector instead of querySelectorAll.
+- Realizing I needed to sync JS variables with the DOM using .textContent, otherwise my updates wouldn’t display.
+- How to get started and realizing the importance of completing milestones instead of complete perfection.
  
 These challenges helped me visualize the logic better and taught me how important clean, reusable patterns are in JavaScript.
 
@@ -40,18 +39,17 @@ These challenges helped me visualize the logic better and taught me how importan
 🚀 Future Improvements
 
 I’d like to expand this project to make it more practical and fun:
-	•	Mobile Responsiveness
-	•	Larger buttons and adaptive font sizes for smaller screens.
-	•	Use more CSS flex/grid and clamp() for responsive typography.
-	•	Reset Button
-	•	Clear all scores with one click to start a new game.
-	•	Different Sport Modes
-	•	Switch the button sets dynamically depending on the sport:
-	•	🥊 Boxing, 🥋 Wrestling, 🥊 UFC → Round counters, points by judges.
-	•	⚽ Soccer → Goals, penalties.
-	•	🏒 Hockey → Goals, periods.
-	•	🏊 Swimming → Heat counters, lap tracking.
-	•	A toggle or dropdown to select the sport mode.
+- Mobile Responsiveness
+- Larger buttons and adaptive font sizes for smaller screens.
+- Use more CSS flex/grid and clamp() for responsive typography.
+- Reset Button to  clear all scores with one click to start a new game.
+- Different Sport Modes
+- A toggle or dropdown to select the sport mode.
+- Switch the button sets dynamically depending on the sport:
+	- 🥊 Boxing, 🥋 Wrestling, 🥊 UFC → Round counters, points by judges.
+ 	- ⚽ Soccer → Goals, penalties.
+  - 🏒 Hockey → Goals, periods.
+  - 🏊 Swimming → Heat counters, lap tracking.
 
 ⸻
 
